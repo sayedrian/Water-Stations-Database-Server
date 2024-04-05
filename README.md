@@ -1,4 +1,4 @@
-# Water Stations Database Server
+# Water Stations Database Server (Python, SQLite, Socket Communication)
 
 This project entails creating a database server to manage water stations' data. The server communicates with multiple clients, each representing a water station.
 
