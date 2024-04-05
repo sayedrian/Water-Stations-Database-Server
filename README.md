@@ -1,6 +1,6 @@
 # Water Stations Database Server (Python, SQLite, Socket Communication)
 
-This project entails creating a database server to manage water stations' data. The server communicates with multiple clients, each representing a water station.
+In this project, I developed a database server to efficiently manage water stations' data. Multiple client stations can communicate with this server, ensuring smooth data transmission and storage. Leveraging Python, SQLite, and socket communication, the system effectively monitors and updates water station information in the SQL database, providing a streamlined solution for tracking water management data.
 
 ## Project Structure
 
